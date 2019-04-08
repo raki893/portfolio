@@ -40,9 +40,9 @@ hr {
 }
 .bannar_overlay{
 	width:100%;
-	background-color: rgba(0, 0, 0, 0.8);
-	background: rgba(0, 0, 0, 0.8);
-	color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(0, 0, 0, 0.6);
 	padding-top:280px;
 	padding-bottom:280px;
 }
