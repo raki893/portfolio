@@ -38,13 +38,6 @@ hr {
 	width:100%;
 	background:url(../images/bannar.jpg) no-repeat 0 0/ 100% 100%;
 }
-#animation{
-	width:100%;
-}
-canvas{
-	position: absolute;
-	top: 0; right: 0; bottom: 0; left: 0;
-}
 .bannar_overlay{
 	width:100%;
 	background-color: rgba(0, 0, 0, 0.8);
